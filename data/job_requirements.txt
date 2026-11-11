@@ -1,0 +1,26 @@
+## Posisi: Junior Backend Developer
+
+### Deskripsi Pekerjaan
+Bertanggung jawab dalam pengembangan, pemeliharaan, dan pengoptimalan backend aplikasi, termasuk pembuatan REST API, pengelolaan database, serta integrasi dengan frontend maupun layanan pihak ketiga.
+
+### Persyaratan Wajib (Must-Have)
+- Pendidikan minimal D3/S1 Teknik Informatika, Sistem Informasi, atau bidang terkait.
+- Memahami dasar pemrograman backend menggunakan Python, Node.js, PHP, atau bahasa sejenis.
+- Memiliki pengalaman mengembangkan dan mengintegrasikan RESTful API.
+- Memahami database relasional seperti PostgreSQL atau MySQL, termasuk penggunaan SQL dasar.
+- Memahami konsep HTTP, JSON, autentikasi, dan penanganan error.
+- Familiar dengan Git untuk version control.
+- Memiliki kemampuan debugging dan problem-solving yang baik.
+
+### Nilai Tambah (Nice-to-Have)
+- Pengalaman menggunakan framework backend seperti FastAPI, Django, Express.js, atau Laravel.
+- Familiar dengan Docker dan dasar containerization.
+- Memahami konsep ORM dan database migration.
+- Memiliki pengalaman deployment aplikasi ke cloud atau VPS.
+- Familiar dengan unit testing atau API testing menggunakan Postman.
+- Memahami dasar keamanan API, seperti JWT dan authorization.
+- Pernah mengerjakan proyek backend secara individu maupun dalam tim.
+
+### Pengalaman
+- Fresh graduate dipersilakan melamar.
+- Pengalaman internship, freelance, atau proyek pribadi yang relevan menjadi nilai tambah.
